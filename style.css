@@ -1,0 +1,15 @@
+body{
+font-size:16x;
+}
+
+.header__title{
+ text-align:center;	
+}
+
+.footer{
+  position:absolute;
+  bottom:0;
+  left:45%;
+}
+
+
